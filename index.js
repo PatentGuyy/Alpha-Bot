@@ -27,7 +27,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching AlphaNetwork","Listening Bye Bye AlphaNetwork"];
+const statusMessages = ["Watching Halex"];
 
 
 let currentIndex = 0;
