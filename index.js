@@ -43,7 +43,7 @@ async function login() {
   }
 }
 
-static void UpdatePresence()
+static UpdatePresence()
 {
     DiscordRichPresence discordPresence;
     memset(&discordPresence, 0, sizeof(discordPresence));
