@@ -27,7 +27,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Zoniex Network!","Listening to $sudo"];
+const statusMessages = ["Watching eSports","Listening to XGOD ON TOP"];
 
 
 let currentIndex = 0;
